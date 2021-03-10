@@ -1,0 +1,10 @@
+{
+  "name": "node-math",
+  "version": "1.0.0",
+  "main": "main.js",
+  "author": "Ivan Boiko",
+  "license": "MIT",
+  "scripts": {
+    "start": "node main"
+  }
+}
